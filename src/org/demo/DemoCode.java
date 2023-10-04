@@ -9,8 +9,13 @@ public class DemoCode {
 
 	}
 	
+	//swathika
+	//lenin
 	
-	
+	private void lenin() {
+		System.out.println("Hi am lenin");
+
+	}
 	
 	
 	
